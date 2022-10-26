@@ -9,3 +9,13 @@
 * WHILE smyčky
 * WALRUS operátor
 * Program - Shopping cart
+
+6. lekce:
+* Moduly, balíčky
+* Knihovny
+* Program - Hangman
+
+7. lekce:
+* Úvod do funkcí
+* další přiřazování
+* Program - Hangman v funkcemi
