@@ -19,3 +19,9 @@
 * Úvod do funkcí
 * další přiřazování
 * Program - Hangman v funkcemi
+
+8. lekce:
+* Parametry funkcí
+* Docstrings
+* Funkční rámce
+* Program - Calculator s funkcemi
